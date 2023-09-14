@@ -1,0 +1,8 @@
+#img{
+  background-image: url("Asset/Images/Header/world-dotted-map.png.webp");
+  max-width: 100%;
+  height: auto;
+  background-size: 900px 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+}

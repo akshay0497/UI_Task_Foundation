@@ -1,0 +1,30 @@
+#Header:hover{
+    cursor:pointer;
+}
+
+
+#dropbtn2 {
+    border: none;
+}
+
+#dropdown-contentss {
+    display: none;
+    position: absolute;
+    width: 225px;
+    z-index: 1;
+}
+
+#dropdown-contentss a {
+    color: black;
+    padding: 10px;
+    display: block;
+    background-color: white;
+}
+
+#dropdown-contentss a:hover {
+    display: block;
+}
+
+#dropdown2:hover #dropdown-contentss {
+    display: block;
+}
